@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(230, 230, 170);
+}
+
+.content {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-style:solid;
+    border-color:brown;
+    border-width: 10px;
+}
+h1{
+    color: rgb(185, 63, 63);
+}
+p{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
